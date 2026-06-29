@@ -1,1 +1,1 @@
-# PROG-PART-3
+This is a continuation of part 1 and 2 of my chatbot project, although, i must say that this final part (part 3-POE) includes major enhancements to the first two parts. This is a GUI-based application, not console. I have connected my chatbot to MySQL, so that i can add tasks, delete tasks, and set reminders for those tasks. The chatbot also has a quiz to test users' knowledge on cybersecurity, which helps them stay safe online. 
